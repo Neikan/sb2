@@ -3,6 +3,7 @@ import 'package:sb2/exercise_2.dart';
 import 'package:sb2/exercise_3.dart';
 import 'package:sb2/exercise_4.dart';
 import 'package:sb2/exercise_5.dart';
+import 'package:sb2/exercise_6.dart';
 
 void main(List<String> arguments) {
   // НОД, НОК, множители
@@ -19,4 +20,7 @@ void main(List<String> arguments) {
 
   // Подсчет цифр с строке
   executeExercise5();
+
+  // Расстояние между двумя точками в пространстве
+  executeExercise6();
 }
