@@ -1,6 +1,7 @@
 import 'package:sb2/exercise_1.dart';
 import 'package:sb2/exercise_2.dart';
 import 'package:sb2/exercise_3.dart';
+import 'package:sb2/exercise_4.dart';
 
 void main(List<String> arguments) {
   // НОД, НОК, множители
@@ -11,4 +12,7 @@ void main(List<String> arguments) {
 
   // Поиск чисел в строке
   executeExercise3();
+
+  // Подсчет слов в списке
+  executeExercise4();
 }
