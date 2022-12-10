@@ -64,6 +64,7 @@ void executeExercise2() {
 void executeConvertToBinary() {
   // Ввод данных
   print('');
+  print('--- Задание №2 ---');
   print('Введите десятичное число');
 
   stdout.write('a = ');
