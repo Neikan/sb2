@@ -68,7 +68,7 @@ void permutationInts(int a, int b) {
 void executeExercise1() {
   try {
     // Ввод данных
-    print('');
+    print('--- Задание №1 ---');
     print('Введите два целых числа');
 
     // - первое число
