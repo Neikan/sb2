@@ -4,12 +4,13 @@ import 'package:sb2/exercise_3.dart';
 import 'package:sb2/exercise_4.dart';
 import 'package:sb2/exercise_5.dart';
 import 'package:sb2/exercise_6.dart';
+import 'package:sb2/exercise_7.dart';
 
 void main(List<String> arguments) {
   // НОД, НОК, множители
   executeExercise1();
 
-  // Конвертации
+  // Конвертации между системами счисления
   executeExercise2();
 
   // Поиск чисел в строке
@@ -23,4 +24,7 @@ void main(List<String> arguments) {
 
   // Расстояние между двумя точками в пространстве
   executeExercise6();
+
+  // Корень степени N
+  executeExercise7();
 }
