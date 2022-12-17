@@ -8,26 +8,26 @@ import 'package:sb2/exercise_7.dart';
 import 'package:sb2/exercise_8.dart';
 
 void main(List<String> arguments) {
-  // // НОД, НОК, множители
-  // executeExercise1();
+  // НОД, НОК, множители
+  executeExercise1();
 
-  // // Конвертации между системами счисления
-  // executeExercise2();
+  // Конвертации между системами счисления
+  executeExercise2();
 
-  // // Поиск чисел в строке
-  // executeExercise3();
+  // Поиск чисел в строке
+  executeExercise3();
 
-  // // Подсчет слов в списке
-  // executeExercise4();
+  // Подсчет слов в списке
+  executeExercise4();
 
-  // // Подсчет цифр с строке
-  // executeExercise5();
+  // Подсчет цифр с строке
+  executeExercise5();
 
-  // // Расстояние между двумя точками в пространстве
-  // executeExercise6();
+  // Расстояние между двумя точками в пространстве
+  executeExercise6();
 
-  // // Корень степени N
-  // executeExercise7();
+  // Корень степени N
+  executeExercise7();
 
   // Список пользователей
   executeExercise8();
