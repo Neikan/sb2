@@ -6,12 +6,12 @@ class User {
 }
 
 // Миксин (добавление свойства - домен почтового сервиса)
-mixin getMailSystem on User {
+mixin GetMailSystem on User {
   String get domain => email.split('@')[1];
 }
 
 // Класс-потомок от User с миксином
-class AdminUser extends User with getMailSystem {
+class AdminUser extends User with GetMailSystem {
   AdminUser(super.login, super.email);
 }
 
